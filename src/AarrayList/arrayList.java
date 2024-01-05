@@ -28,7 +28,9 @@ public class arrayList {
         System.out.println("-----");
         Collections.sort(listaAlunos);
         System.out.println(listaAlunos);
-
+        System.out.println("-----");
+        System.out.println(listaAlunos.contains("Carlos"));
+        System.out.println(listaAlunos.contains("Tiago"));
 
     }
 }
