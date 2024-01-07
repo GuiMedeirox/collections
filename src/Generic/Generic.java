@@ -1,6 +1,6 @@
 package Generic;
 
-public class generic<T> {
+public class Generic<T> {
 
     public T getValor() {
         return valor;
@@ -10,7 +10,7 @@ public class generic<T> {
         this.valor = valor;
     }
 
-    public generic(T valor) {
+    public Generic(T valor) {
         this.valor = valor;
     }
 
