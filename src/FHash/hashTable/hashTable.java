@@ -13,6 +13,5 @@ public class hashTable {
         boletim.replace("FSI",10f);
 
         System.out.println(boletim.values());
-
     }
 }
